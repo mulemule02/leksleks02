@@ -1,0 +1,1 @@
+print("myszka myszka")
